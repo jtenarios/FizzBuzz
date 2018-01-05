@@ -22,10 +22,9 @@ public class Main {
             }else{
                 System.out.println(Paleta.BLACK + i + ". " + i);
             }
-
-
         }
 
     }
+    /* Comentario para ver los Commit en GitHub */
 
 }
